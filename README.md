@@ -15,7 +15,7 @@ I'm a frontend developer who enjoys turning ideas into clean, functional interfa
 - 🔭 Currently building my **personal portfolio site**
 - 🌱 Deepening my skills in **React** and **Next.js**
 - 💬 Open to collaborating on **frontend projects and open source**
-- 📫 Reach me at **your@email.com**
+- 📫 Reach me at **clarkdaviddulpinasuan@gmail.com**
 
 ---
 
