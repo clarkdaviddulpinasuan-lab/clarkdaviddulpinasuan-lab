@@ -15,7 +15,7 @@ I'm a frontend developer who enjoys turning ideas into clean, functional interfa
 - 🔭 Currently building my **personal portfolio site**
 - 🌱 Deepening my skills in **React** and **Next.js**
 - 💬 Open to collaborating on **frontend projects and open source**
-- 📫 Reach me at **clarkdaviddulpinasuan@gmail.com**
+- 📫 Reach me at **your@email.com**
 
 ---
 
@@ -31,6 +31,13 @@ I'm a frontend developer who enjoys turning ideas into clean, functional interfa
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+
+**Design & Platforms**
+
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Shopify](https://img.shields.io/badge/Shopify-96BF48?style=flat-square&logo=shopify&logoColor=white)
+![Wix](https://img.shields.io/badge/Wix-000000?style=flat-square&logo=wix&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
 
 **Tools**
 
